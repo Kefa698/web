@@ -19,7 +19,7 @@ function Home() {
 					</div>
 					<div className="flex flex-col md:ml-20 mx-10 mt-10">
 						<h1 className="font-bold text-7xl text-left mb-5">
-							Hello, I am <span className="text-indigo-900">Jenny</span>
+							Hello, I am <span className="text-indigo-900">Kefa</span>
 						</h1>
 						<p className="text-left font-normal font mb-5 flex-wrap">
 							Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis
