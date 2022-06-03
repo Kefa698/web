@@ -11,7 +11,7 @@ function Navbar() {
 				<div className="w-full">
 					<div className="flex items-center h-20 w-full ">
 						<div className="flex items-center  sm:mx-10 md:mx-20 justify-between w-full">
-							<div className="flex justify-center items-center flex-shrink-0 ">
+							<div className="flex justify-center items-center flex-shrink-0 ml-2 ">
 								<h1 className=" font-bold text-xl cursor-pointer">
 									Stream<span className="text-blue-500">line</span>
 								</h1>
